@@ -25,8 +25,7 @@ Jeżeli się pomylisz lub skończy się czas, otrzymujesz błąd.
 Po trzech błędach zmiana kończy się niepowodzeniem.
 
 ---
-GitHub Pages link do gry:
-
+GitHub Pages link do gry: (https://nhypen.github.io/night_shift_simulator/)
 ---
 ## ✨ Funkcje
 
